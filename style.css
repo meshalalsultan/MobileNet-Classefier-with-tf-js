@@ -1,0 +1,54 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+.avatar-pic {
+  width: 100px;
+}
+
+.content {
+  text-align: center;
+}
+
+#img {
+  max-width: 600px;
+  margin: 50px 0;
+}
+
+.form input {
+  height: 20px;
+}
+
+.form botton {
+  height: 36px;
+  padding: 0 10px;
+  border: none;
+  background: grey;
+  color: white;
+}
+.pred-container {
+    margin-bottom: 20px;
+  }
+
+  .pred-container > div {
+    display: inline-block;
+    margin-right: 20px;
+    vertical-align: top;
+  }
+
+  .row {
+    display: table-row;
+  }
+  .cell {
+    display: table-cell;
+    padding-right: 20px;
+  }
+
+  #file-container {
+    margin-bottom: 20px;
+  }
+
+
+
+
